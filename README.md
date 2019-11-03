@@ -4,14 +4,7 @@
 #### 1.1. Business Objectives  
 * Phần mềm quản lý khách sạn mang tới hiệu quả trong việc quản lý tất cả các hoạt động diễn ra trong khách sạn của mình . Tất cả các công việc đều được lưu lại trên chương trình nhằm mang tới một thống kê chi tiết và chính xác nhất 
 * Phần mềm quản lý khách sạn hỗ trợ người dùng là chủ các khách sạn , nhà nghỉ hoặc nhà trọ quản lý khách thuê phòng ngắn và dài hạn . Với phần mềm này,người chủ sẽ kiểm soát được các hoạt động của khách cùng các dịch vụ được cung cấp , theo dõi chi phí thuê phòng và đơn giải hóa các bướm thanh toán
-* Bao gồm 7 chức năng:
-** Đặt phòng
-** Hủy đặt phòng
-** Lập báo cáo
-** Lập hóa đơn thanh toán
-** Check in
-** Check out
-** Quản lý phòng(thêm,sửa,xóa)
+* Bao gồm 7 chức năng: Đặt phòng,hủy đặt phòng,lập báo cáo,lập hóa đơn thanh toán,check in,check out,quản lý phòng(thêm,sửa,xóa)
 ####
 #### 1.2. Goals
 * Xây dựng phần mềm dạng ứng dụng cho máy tính cá nhân.
